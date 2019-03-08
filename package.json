@@ -1,0 +1,25 @@
+{
+  "name": "swipebox",
+  "version": "1.4.4",
+  "description": "A touchable jQuery lightbox.",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrews05/swipebox.git"
+  },
+  "keywords": [
+    "lightbox"
+  ],
+  "author": "Andrew Smith",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/andrews05/swipebox/issues"
+  },
+  "homepage": "https://github.com/andrews05/swipebox#readme"
+}
